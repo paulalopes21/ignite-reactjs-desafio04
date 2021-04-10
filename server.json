@@ -17,12 +17,20 @@
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
     },
     {
-      "image": "",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
       "name": "Salmão do chef",
       "price": "24.99",
       "description": "Grelhado com ervas finas",
       "available": true,
       "id": 3
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Macarronada",
+      "price": "18.50",
+      "description": "Macarrão ao molho bolonhesa",
+      "available": true,
+      "id": 4
     }
   ]
 }
